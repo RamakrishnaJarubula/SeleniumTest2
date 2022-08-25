@@ -19,7 +19,7 @@ public class HomePage {
 	@FindBy(id="passwd")
 	WebElement password;
 	
-	@FindBy(id="SubmitLogin")
+	@FindBy(id="SubmitLoginbtn")
 	WebElement logIn;
 	
 	
