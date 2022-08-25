@@ -13,7 +13,7 @@ public class HomePage {
 	@FindBy(className="login")
 	WebElement signIn;
 	
-	@FindBy(id="email")
+	@FindBy(id="email1")
 	WebElement userName;
 	
 	@FindBy(id="passwd")
